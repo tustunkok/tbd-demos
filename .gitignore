@@ -1,0 +1,4 @@
+*.csv
+*.ows
+processing-3.5.3/
+*.ipynb_checkpoints/
